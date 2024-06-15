@@ -1,0 +1,21 @@
+.icons ul li{
+    list-style: none;
+}
+  
+.rgb-spot{
+    position: relative;
+}
+
+nav{
+    position: absolute;
+    background:rgb(234,184,178) ;
+}
+
+.cont{
+    background: white;
+    margin: 11rem 0;
+}
+
+.navbarr{
+    margin: 11rem 0;
+}

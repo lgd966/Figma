@@ -1,0 +1,21 @@
+.tech-bg-light {
+  background: #f3f3f3;
+}
+.tech-bg-dark {
+  background: #383737;
+}
+
+.display{
+    display: grid;
+    place-items: center;
+    margin: 10px;
+    border-radius: 025px;
+    padding: 10px;
+}
+
+@media (max-width:800px) {
+  .hero{
+      /* padding: 3rem 11rem; */
+      padding: 0rem 0rem;
+  }
+}

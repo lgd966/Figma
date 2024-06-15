@@ -1,0 +1,21 @@
+.footer {
+  padding: 3rem 9rem;
+}
+
+.dark-mode-li{
+    color: white;
+}
+
+.light-mode-li{
+    color: black;
+}
+
+@media (max-width: 800px) {
+  .footer {
+    padding: 0rem 1rem;
+  }
+}
+
+.flex-column li a{
+    list-style-type: none;
+}

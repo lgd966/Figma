@@ -1,0 +1,16 @@
+.contact-bg-light {
+  background: #f3f3f3;
+}
+
+.contact-bg-dark {
+  background: 
+  #181818;
+}
+
+input{
+    color: #808080;
+}
+
+.button{
+    float: right;
+}

@@ -1,0 +1,55 @@
+.work {
+  padding: 3rem 7rem;
+}
+
+#work-1-div {
+  border-radius: 25px;
+}
+
+.work-dark {
+  background: #383737;
+  color: white;
+}
+
+.download-btn {
+  padding-top: 6rem;
+}
+.work-light {
+  background: #ebebeb;
+  color: #383737;
+}
+
+.ipad-img {
+  width: 26.7rem;
+}
+
+.book-img {
+  width: 26.5rem;
+}
+
+.get-in-touch {
+  padding: 3rem 9rem;
+}
+@media (max-width: 800px) {
+  .work {
+    padding: 0rem 1rem;
+  }
+  .get-in-touch {
+    padding: 0rem 1rem;
+  }
+  .download-btn {
+    padding-top: 1rem;
+  }
+
+  .d-flex{
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.work-5{
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: 5rem ;
+}

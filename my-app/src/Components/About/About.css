@@ -1,0 +1,9 @@
+.about {
+  padding: 3rem 9rem;
+}
+
+@media (max-width: 800px) {
+  .about {
+    padding: 0rem 1rem;
+  }
+}

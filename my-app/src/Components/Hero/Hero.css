@@ -1,0 +1,47 @@
+.circle-l-img{
+    height: 30rem;
+    width: 30rem;
+}
+
+.name-heading{
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.name-heading span{
+    color: grey;
+}
+
+.hero{
+    padding: 3rem 11rem;
+}
+
+.hero-paragraph{
+    color: grey;
+    font-weight: 500;
+
+}
+
+.icons ul li{
+    list-style: none;
+}
+  
+.rgb-spot{
+    position: relative;
+}
+
+nav{
+    position: absolute;
+    /* background:rgb(234,184,178) ; */
+}
+
+.cont{
+    background: white;
+}
+
+@media (max-width:800px) {
+    .hero{
+        /* padding: 3rem 11rem; */
+        padding: 0rem 0rem;
+    }
+}
